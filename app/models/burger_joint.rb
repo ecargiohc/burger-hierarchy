@@ -1,0 +1,2 @@
+class BurgerJoint < ApplicationRecord
+end
